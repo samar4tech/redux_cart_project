@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://myusername.github.io/redux_cart_project",
   "dependencies": {
+    "@reduxjs/toolkit": "^1.8.6",
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.5.0",
